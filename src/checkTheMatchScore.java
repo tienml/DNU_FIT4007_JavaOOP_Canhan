@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai17 {
+public class checkTheMatchScore {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
